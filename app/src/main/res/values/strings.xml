@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+
+    <string name="q1">There are 7 seas</string>
+    <string name="q2">There are 14 continents</string>
+    <string name="q3">5 x 3 = 20</string>
+</resources>
